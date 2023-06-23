@@ -1,0 +1,16 @@
+.menu{
+    padding: 20px 0;
+  }
+  .menu a{
+    border-radius: 0;
+  }
+  .menu a:hover{
+    border: 1px solid #000000;
+  }
+  .img{
+    margin-top: 20px;
+  }
+  .img img{
+    width: 100%;
+    border-radius: 10px;
+  }
